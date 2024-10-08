@@ -4,7 +4,9 @@ const { Content } = Layout
 const ContentArea = () => (
   <div className="p-4">
     <Card>
-      <Content className="bg-white flex-1">Content</Content>
+      <Content className="bg-white flex-1">
+        
+      </Content>
     </Card>
   </div>
 )

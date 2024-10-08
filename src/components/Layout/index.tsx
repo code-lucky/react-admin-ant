@@ -1,8 +1,8 @@
 import React from 'react'
 import { Layout } from 'antd'
-import SiderMenu from './components/siderMenu'
-import HeaderBar from './components/headerBar'
-import ContentArea from './components/contentArea'
+import SiderMenu from './components/SiderMenu'
+import HeaderBar from './components/HeaderBar'
+import ContentArea from './components/ContentArea'
 
 class App extends React.Component {
   state = {
